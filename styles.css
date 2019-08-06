@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    background-color: #fff7a3;
+    border: solid;
+}
+.labels {
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffd059;
+    border: dashed 2px;
+}
+.labels2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff7a3;
+    border: solid 1px;
+}
+.labels3 {
+    display: flex;
+    justify-content: space-around;
+}
+.inputs {
+    display: flex;
+    justify-content: space-around;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+.bottom {
+    background-color: #ffa109;
+}
